@@ -24,7 +24,7 @@ We constructed the dataset through the following four-step process:
   world, encompassing a wide range of groups such as college students, programmers, and various other
   professions. See [Prompts](data/prompts/task1_group_portraits.md).
 - **User Profile.** Building upon our diverse user group portraits, we next develop individual user profiles with rich detail. See [Prompts](data/prompts/task2_user_characters.md).
-- **Writing Task Instructions.** In this phase, we craft text creation tasks tailored to our user characters, ensuring alignment with their professions, hobbies, and lifestyles.  See [Prompts](data/prompts/ task3_creative_tasks.md).
+- **Writing Task Instructions.** In this phase, we craft text creation tasks tailored to our user characters, ensuring alignment with their professions, hobbies, and lifestyles.  See [Prompts](data/prompts/task3_creative_tasks.md).
 
 - **Personalized Generations.** Here, we produce personalized texts adhering to specific guidelines. Our focus is on crafting authentic and coherent narratives that vividly reflect each character’s professional and personal life. See [Prompts](data/prompts/task4_personalized_text.md).
 
