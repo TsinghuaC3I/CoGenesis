@@ -1,0 +1,9 @@
+transformers
+fschat
+vllm
+tqdm
+colorama
+srsly
+fire
+langchain
+langchain_openai
